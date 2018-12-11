@@ -5,9 +5,12 @@ Ce module permet d'extraire toute les photos PNG a partir d'un fichier PDF a la 
 # Requirements Omeka-S 1.1.1
 
 # Contact
+
 Mainteneurs actuels:
 
 ATEK Amel(see ATEK AMEL on GitHub)
 
 #Copyright
+
+
 Copyright ATEK AMEL, 2018-2019
