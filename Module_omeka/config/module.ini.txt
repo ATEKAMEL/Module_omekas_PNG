@@ -4,5 +4,5 @@ version      = "1.0"
 author       = "AmelATEK"
 configurable = true
 description  = "Mon premier module Omeka-S"
-module_link  = " "
-author_link  = " "
+module_link  = " Module PNG "
+author_link  = "Module PNG "
