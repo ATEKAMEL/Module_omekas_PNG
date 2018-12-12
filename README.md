@@ -9,6 +9,12 @@ Requirements Omeka-S 1.1.1
 
 # Contact
 
+# Module
+
+Non installable.
+
+Den cours de developpement 
+
 Mainteneurs actuels:
 
 ATEK Amel(see ATEK AMEL on GitHub)
